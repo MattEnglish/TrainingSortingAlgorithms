@@ -1,0 +1,7 @@
+C:\Work\Training\SortingAlgorithems\SortingAlgorithems\bin\Debug\SortingAlgorithems.exe.config
+C:\Work\Training\SortingAlgorithems\SortingAlgorithems\bin\Debug\SortingAlgorithems.exe
+C:\Work\Training\SortingAlgorithems\SortingAlgorithems\bin\Debug\SortingAlgorithems.pdb
+C:\Work\Training\SortingAlgorithems\SortingAlgorithems\obj\Debug\SortingAlgorithems.csprojResolveAssemblyReference.cache
+C:\Work\Training\SortingAlgorithems\SortingAlgorithems\obj\Debug\SortingAlgorithems.csproj.CoreCompileInputs.cache
+C:\Work\Training\SortingAlgorithems\SortingAlgorithems\obj\Debug\SortingAlgorithems.exe
+C:\Work\Training\SortingAlgorithems\SortingAlgorithems\obj\Debug\SortingAlgorithems.pdb
